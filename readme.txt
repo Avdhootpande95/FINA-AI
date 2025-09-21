@@ -24,11 +24,13 @@ Visual Data Representation: The final output includes text-based bar graphs and 
 
 Structured Output: The final document is professional, featuring a disclaimer at the beginning and end, and a quarter-wise roadmap of investments and expected returns.
 
-Links:
+Links and Files:
 Presentation (PPT): www.canva.com/design/DAGzkDfGGuk/SAhvYkBIRvLykJYqUMDKhQ
 
 Frontend (Figma): hub-notch-15745167.figma.site
 
 Note: This is just the frontend prototype and does not demonstrate the real agentic AI's functionality.
 
-Demo Video: The video is saved as demo.mp4
+Demo Video: The video is saved as demo_AI.mp4.
+
+Sample Conversation: A sample conversation between a user and the AI is saved as CONVO.JSON
